@@ -87,3 +87,11 @@ scheme://hostname[:port]/path?query#fragment
 `scheme + hostname + port`
 
 https://developer.mozilla.org/en-US/docs/Glossary/Origin
+
+# SameSite
+
+The `same-site` is `registrable domain portion of the domain name`
+- https://developer.mozilla.org/en-US/docs/Glossary/Site
+
+The `schemeful same-site` is used in context of cookie, `scheme + registrable domain portion of the domain name`
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#controlling_third-party_cookies_with_samesite
