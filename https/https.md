@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=6wCwjIhGylY
 
 1.1 Digital signatures in SSL/TLS:
 
+Digital signatures are used for
+- Certificate validation
+- To sign "authenticated exchange key" used during Handshake
+
 How signarure happens in terms of public/private keys\
 https://www.ibm.com/docs/en/cics-ts/5.4?topic=protection-public-key-encryption
 
