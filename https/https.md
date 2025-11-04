@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=6wCwjIhGylY
 
 Digital signatures are used for
 - Certificate validation
-- To sign "authenticated exchange key" used during Handshake
+- To sign "authenticated exchange key" used during Handshake to establish session key
 
 How signarure happens in terms of public/private keys\
 https://www.ibm.com/docs/en/cics-ts/5.4?topic=protection-public-key-encryption
