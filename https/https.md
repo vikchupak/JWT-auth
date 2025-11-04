@@ -1,7 +1,9 @@
 See laptop: __Network and security fundamentals__ for more info.
 
-Session key exchange uses asymmetric encription;\
-Data encripted using symmetric encription;
+- Session key exchange uses asymmetric encription;\
+- Data encripted using symmetric encription;
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3deaf4f-7067-4452-a6df-f93f0f7acca1" />
 
 ### Cert content
 
