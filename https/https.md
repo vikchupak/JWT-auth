@@ -3,7 +3,25 @@ See laptop: __Network and security fundamentals__ for more info.
 Session key exchange uses asymmetric encription;\
 Data encripted using symmetric encription;
 
-=================================================================================
+### Cert content
+
+The **certificate’s role in the TLS handshake** is to provide **identity + a public key** that can be **cryptographically validated**.
+
+The certificate contains:
+
+* Domain name (CN / SAN)
+* Server public key
+* Issuer (CA)
+* Validity period
+* Signature from CA
+
+The client checks:
+* domain matches
+* certificate not expired
+* CA is trusted
+* signature valid
+
+---
 
 1 SSL/TLS (digital) certificates:
 - __Root certificates => pre-installed in OS (and probably browser); self-signed; contain public keys__;
